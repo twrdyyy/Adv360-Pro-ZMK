@@ -82,7 +82,7 @@
             bindings = <
  &kp TILDE  &trans  &trans            &trans        &trans  &trans            &trans                                                  &trans          &trans          &trans        &trans  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp PLUS
     &trans  &trans  &trans            &trans        &trans  &trans            &trans                                                  &trans       &kp EQUAL        &kp LBKT      &kp RBKT        &kp LEFT_BRACE        &kp RIGHT_BRACE    &trans
-    &trans  &trans   &none  &kp LEFT_COMMAND  &kp LEFT_ALT  &trans            &trans  &trans  &trans                  &trans  &trans  &trans  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp UP_ARROW       &kp RIGHT_ARROW                 &trans    &trans
+    &trans  &trans   &none  &sk LEFT_COMMAND  &kp LEFT_ALT  &trans            &trans  &trans  &trans                  &trans  &trans  &trans  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp UP_ARROW       &kp RIGHT_ARROW                 &trans    &trans
     &trans  &trans  &trans            &trans        &trans  &trans                            &trans                  &trans                          &trans          &trans        &trans                &trans                 &trans    &trans
     &trans  &trans  &trans            &trans        &trans                    &trans  &trans  &trans                  &trans  &trans  &trans                          &trans        &trans                &trans                 &trans    &trans
             >;
